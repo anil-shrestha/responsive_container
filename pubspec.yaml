@@ -1,0 +1,19 @@
+name: responsiveui_container
+description: This Widget wraps layoutbuilder to provide a Responsive Container container. It can be used to build layout for mobile, tablet and desktop.
+version: 0.0.1
+homepage: https://github.com/anil-shrestha/responsiveui_container
+publish_to:
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
